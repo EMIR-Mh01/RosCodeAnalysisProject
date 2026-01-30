@@ -1,5 +1,4 @@
 # RosCodeAnalysisProject
-# RosCodeAnalysisProject
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 A web-based Python tool to analyze ROS1/ROS2 projects. Detect nodes, topics, publishers/subscribers, rate-controlled loops, and naming convention issues.
